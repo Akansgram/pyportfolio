@@ -1,0 +1,100 @@
+.outter{
+    background-color: white;
+    margin: 0 auto;
+    width: 600px;
+    line-height: 40px;
+    border-radius: none;
+}
+
+.outer{
+    background-color: whitesmoke;
+    border: 15px solid black; 
+    text-align: center;
+    padding-top: 15px;
+}
+
+h1{
+    color: orangered;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+}
+
+h3{
+    font-size: larger;
+    font-weight:bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.inner{
+    background-color: skyblue;
+    padding-top: 20px;
+    padding-left: 55px;
+    padding-bottom: 25px;
+}
+
+.name{
+    width: 90%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: none;
+    border: none;
+}
+
+.email{
+    width: 90%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: none;
+    border: none;
+}
+
+.Subject{
+    width: 90%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: none;
+    border: none;
+}
+
+.Message{
+    width: 90%;
+    padding-bottom: 80px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: none;
+    border: none;
+}
+
+button{
+    width: 40%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    background-color: orangered;
+    border-radius: none;
+    border: none;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: chocolate;
+    transition: 1s;
+}
+
+
+.Approve{
+    color: blueviolet;
+}
+
+
+.thm{
+    margin: 0 auto;
+    padding-left: 300px;
+}
